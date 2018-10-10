@@ -19,6 +19,7 @@ This is done using the:
 Drawback: One disadvantage with this solution is that we can't simply "skip" all the permutations that start with a certain prefix, after discovering that that prefix is incompatible. For example, it is easy to verify that no permutation of the form (1,2,...) could ever be a solution, but since we don't have control over the generation of the permutations, we can't just tell it to "skip" all the ones that start with (1,2) </br>
 
 </br>
+
 ### For visualisation of the solving of the N-Queens Problem, check out https://www.cs.usfca.edu/~galles/visualization/RecQueens.html
 </br>
 
