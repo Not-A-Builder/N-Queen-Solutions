@@ -14,7 +14,7 @@ Drawback: For values of the size of the board>15, the Kernel might take a very l
 
 ### Added Solution-3 
 For a slightly advanced understanding of the solution of the N-Queens problem using Permutations (itertools).  
-This is done using the:   
+This is done using the:
 #### Raymond Hettingers permutations based solution.  
 Drawback: One disadvantage with this solution is that we can't simply "skip" all the permutations that start with a certain prefix, after discovering that that prefix is incompatible. For example, it is easy to verify that no permutation of the form (1,2,...) could ever be a solution, but since we don't have control over the generation of the permutations, we can't just tell it to "skip" all the ones that start with (1,2) </br>
 
