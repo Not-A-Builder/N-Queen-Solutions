@@ -8,4 +8,4 @@ Drawback: For values of the size of the board>15, the Kernel might take a very l
 
 This is not the most efficient solution out there (wrt time complexity), although it does get the preliminary job done.
 
-#### Jupyter notebook files coming in soon... stay tuned!
+#### More Jupyter notebook files coming in soon... stay tuned!
