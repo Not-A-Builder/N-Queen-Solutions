@@ -18,6 +18,10 @@ This is done using the:
 #### Raymond Hettingers permutations based solution.  
 Drawback: One disadvantage with this solution is that we can't simply "skip" all the permutations that start with a certain prefix, after discovering that that prefix is incompatible. For example, it is easy to verify that no permutation of the form (1,2,...) could ever be a solution, but since we don't have control over the generation of the permutations, we can't just tell it to "skip" all the ones that start with (1,2) </br>
 
+### Added Solution-4 
+For a quick and simple understanding of the use of recursion in the backtracking solution of the N-Queens problem.  
+Drawback: Please note that the main aim of this code is just to demonstrate the use of recursive algorithms for backtracking. So there is only one board output for a given size of board. </br>
+
 </br>
 
 ### For visualisation of the solving of the N-Queens Problem, check out https://www.cs.usfca.edu/~galles/visualization/RecQueens.html
