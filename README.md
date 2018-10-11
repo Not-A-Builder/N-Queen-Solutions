@@ -20,7 +20,8 @@ Drawback: One disadvantage with this solution is that we can't simply "skip" all
 
 ### Added Solution-4 
 For a quick and simple understanding of the use of recursion in the backtracking solution of the N-Queens problem.  
-Drawback: Please note that the main aim of this code is just to demonstrate the use of recursive algorithms for backtracking. So there is only one board output for a given size of board. </br>
+Drawback: Please note that the main aim of this code is just to demonstrate the use of recursive algorithms for backtracking.  
+So there is only one board output for a given size of board. </br>
 
 </br>
 
