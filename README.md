@@ -28,5 +28,5 @@ So there is only one board output for a given size of board. </br>
 ### For visualisation of the solving of the N-Queens Problem, check out https://www.cs.usfca.edu/~galles/visualization/RecQueens.html
 </br>
 
-#### Support me
+### Support me
 If you have any other solution to this fantastic problem, feel free to share with me.
