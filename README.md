@@ -31,4 +31,5 @@ So there is only one board output for a given size of board. </br>
 ### Support me
 If you have any other solution to this fantastic problem, feel free to share with me.  
 I am open to collaborations.  
-Feel free to contact me at rb1311997@gmail.com
+Feel free to contact me at rb1311997@gmail.com  
+Thank you!
