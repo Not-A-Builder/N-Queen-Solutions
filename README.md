@@ -27,5 +27,3 @@ So there is only one board output for a given size of board. </br>
 
 ### For visualisation of the solving of the N-Queens Problem, check out https://www.cs.usfca.edu/~galles/visualization/RecQueens.html
 </br>
-
-#### More Jupyter notebook files coming in soon... stay tuned!
