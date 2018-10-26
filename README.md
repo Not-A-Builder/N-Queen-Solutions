@@ -1,5 +1,5 @@
 # N-Queen-Solutions
-Some highly comprehensive solutions to the N-Queens Problem. 
+Some highly comprehensive and well-documented solutions to the N-Queens Problem. 
 
 ### Added Solution-1 
 For a very basic and detailed understanding of the solution of the N-Queens problem.  
