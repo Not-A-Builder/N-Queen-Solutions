@@ -1,4 +1,4 @@
-# N-Queen-Solutions
+# :octocat: N-Queen-Solutions
 
 ### What is the N-Queen problem?
 The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, the eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other.  
