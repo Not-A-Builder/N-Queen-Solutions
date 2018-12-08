@@ -2,7 +2,7 @@
 
 ### What is the N-Queen problem?
 The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For instance, the eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other.  
-Thus, a solution requires that no two queens share the same row, column, or diagonal.  
+Thus, a solution requires that no two queens share the same row, column, or diagonal  
 
 ## What is the purpose of this repo:
 
